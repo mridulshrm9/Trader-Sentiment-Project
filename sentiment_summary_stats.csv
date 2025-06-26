@@ -1,0 +1,6 @@
+classification,Closed PnL_mean,Closed PnL_median,Closed PnL_sum,Closed PnL_count,Size USD_mean,Start Position_mean
+Extreme Fear,34.54,0.0,739110.25,21400,5349.73,-2322.3
+Extreme Greed,67.89,0.0,2715171.31,39992,3112.25,19518.99
+Fear,54.29,0.0,3357155.44,61837,7816.11,8709.82
+Greed,42.74,0.0,2150129.27,50303,5736.88,-151088.55
+Neutral,34.31,0.0,1292920.68,37686,4782.73,144.0
