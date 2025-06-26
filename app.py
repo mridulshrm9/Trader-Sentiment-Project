@@ -34,4 +34,4 @@ app.layout = html.Div(style={"backgroundColor": "#111111", "padding": "2rem"}, c
 ])
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run_server(debug=True)
